@@ -1,0 +1,1 @@
+Öffne /backend über die bereitgestellten Scripts. Teste API via http://localhost:8080/health. Diese Mappe ist nur für interne Checks.

@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": "95c6d192-ebfb-4b31-a0e1-64f22088c409",
+      "id_num": 1,
+      "email": "jankraft@neuracoreit.de",
+      "displayName": "jankraft",
+      "firstName": "",
+      "lastName": "",
+      "role": "user",
+      "password_hash": "85910a93629552ad2b9dfd634e25590f0d711c565acb114b73e104df8adf171d",
+      "created_at": "2025-10-14T22:47:48.948Z"
+    },
+    {
+      "id": "7b71428d-b554-4ac7-9ea7-699ff36b7845",
+      "id_num": 2,
+      "email": "Harzerdekohexe@web.de",
+      "displayName": "Harzerdekohexe",
+      "firstName": "",
+      "lastName": "",
+      "role": "user",
+      "password_hash": "a98032f6eb07f30687bcda137b5cd921b622f66cb8d5e10660c8da5fe0422b30",
+      "created_at": "2025-10-15T18:05:31.843Z"
+    }
+  ],
+  "files": []
+}
